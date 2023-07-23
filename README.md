@@ -5,13 +5,13 @@
 Online kurz Testovanie Softvéru podľa ISTQB je pre Vás ideálny, ak sa chcete naučiť automatizovane testovať softvér. Oboznámime Vás sa rôznymi úrovňami automatizovaného testovania. Ukážeme Vám najčastejšie chyby pri automatizácii. Ako absolvent kurzu Automatizované Testovanie zvládnete nasadiť automatizované testy a hľadať chyby v softvéri. Automatizovať testovacie procesy a prípady bude pre Vás denný chlebíček.
 
 I. Úvod do Testovania Softvéru 
-II. Typy testov (Testovacie techniky)
-III. Testovacie Nástroje
-IV. Testovacie Prípady, Sady a Scenáre
-V. Funkčné UI Testovanie  
-VI. Test a Bug Management (Manažment testovania) 
-VII Životný cyklus defektov
-VIII. Defekty a Reporty
+II. Typy testov (Testovacie techniky)  
+III. Testovacie Nástroje  
+IV. Testovacie Prípady, Sady a Scenáre  
+V. Funkčné UI Testovanie    
+VI. Test a Bug Management (Manažment testovania)   
+VII Životný cyklus defektov  
+VIII. Defekty a Reporty  
 
 ## :heavy_check_mark: Využitie Automatizovaného Testovania Softvéru
 1. **Webové aplikácie**
