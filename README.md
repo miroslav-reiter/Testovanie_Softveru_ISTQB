@@ -1,4 +1,4 @@
-# :hammer_and_wrench: Kurz Testovanie Softvéru podľa ISTQB
+# 🤖🐞 Kurz Testovanie Softvéru podľa ISTQB
 :briefcase: Materiály, zdrojové kódy, testovacie sady a prípady, zdroje a návody k online [kurzu Testovanie Softvéru podľa ISTQB](https://www.vita.sk/online-kurz-automatizovane-testovanie-i-zaciatocnik/)
 
 ## 📑 Anotácia a Osnova kurzu 
