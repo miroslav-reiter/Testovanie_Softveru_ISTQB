@@ -1,5 +1,5 @@
 # :hammer_and_wrench: Kurz Testovanie Softvéru podľa ISTQB
-:briefcase: Materiály, zdrojové kódy, testovacie sady a prípady, zdroje a návody k online [kurzu Automatizované Testovanie](https://www.vita.sk/online-kurz-automatizovane-testovanie-i-zaciatocnik/)
+:briefcase: Materiály, zdrojové kódy, testovacie sady a prípady, zdroje a návody k online [kurzu Testovanie Softvéru podľa ISTQB](https://www.vita.sk/online-kurz-automatizovane-testovanie-i-zaciatocnik/)
 
 ## 📑 Anotácia a Osnova kurzu 
 Online kurz Testovanie Softvéru podľa ISTQB je pre Vás ideálny, ak sa chcete naučiť automatizovane testovať softvér. Oboznámime Vás sa rôznymi úrovňami automatizovaného testovania. Ukážeme Vám najčastejšie chyby pri automatizácii. Ako absolvent kurzu Automatizované Testovanie zvládnete nasadiť automatizované testy a hľadať chyby v softvéri. Automatizovať testovacie procesy a prípady bude pre Vás denný chlebíček.
