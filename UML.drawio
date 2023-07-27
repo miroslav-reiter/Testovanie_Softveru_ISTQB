@@ -1,0 +1,76 @@
+<mxfile host="app.diagrams.net" modified="2023-07-27T07:45:01.484Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="KWkhgmdppemqwvHy36OW" version="21.6.5" type="device">
+  <diagram name="Page-1" id="3HVKxH8AcOBYXbnLSRp8">
+    <mxGraphModel dx="1221" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dQKsyLHApc4LOAyH2oId-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dQKsyLHApc4LOAyH2oId-1" target="dQKsyLHApc4LOAyH2oId-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dQKsyLHApc4LOAyH2oId-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dQKsyLHApc4LOAyH2oId-1" target="dQKsyLHApc4LOAyH2oId-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dQKsyLHApc4LOAyH2oId-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dQKsyLHApc4LOAyH2oId-1" target="dQKsyLHApc4LOAyH2oId-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dQKsyLHApc4LOAyH2oId-1" value="Policajt" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="40" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dQKsyLHApc4LOAyH2oId-2" value="Patráč" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="200" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dQKsyLHApc4LOAyH2oId-3" value="Technik" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dQKsyLHApc4LOAyH2oId-4" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dQKsyLHApc4LOAyH2oId-3" target="dQKsyLHApc4LOAyH2oId-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="180" y="220" as="sourcePoint" />
+            <mxPoint x="340" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dQKsyLHApc4LOAyH2oId-5" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dQKsyLHApc4LOAyH2oId-2" target="dQKsyLHApc4LOAyH2oId-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="240" y="110" as="sourcePoint" />
+            <mxPoint x="400" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dQKsyLHApc4LOAyH2oId-6" value="Laborant" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="370" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dQKsyLHApc4LOAyH2oId-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dQKsyLHApc4LOAyH2oId-7" target="dQKsyLHApc4LOAyH2oId-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dQKsyLHApc4LOAyH2oId-7" value="Analýza otlačkov prstov" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="20" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dQKsyLHApc4LOAyH2oId-8" value="Import otlačkov prstov" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dQKsyLHApc4LOAyH2oId-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dQKsyLHApc4LOAyH2oId-9" target="dQKsyLHApc4LOAyH2oId-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dQKsyLHApc4LOAyH2oId-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dQKsyLHApc4LOAyH2oId-9" target="dQKsyLHApc4LOAyH2oId-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dQKsyLHApc4LOAyH2oId-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dQKsyLHApc4LOAyH2oId-9" target="dQKsyLHApc4LOAyH2oId-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dQKsyLHApc4LOAyH2oId-9" value="Identifikácia človeka" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="120" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dQKsyLHApc4LOAyH2oId-13" value="Identifikácia človeka podľa DNA" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="120" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dQKsyLHApc4LOAyH2oId-15" value="Identifikácia človeka podľa DNA" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="210" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dQKsyLHApc4LOAyH2oId-16" value="Identifikácia človeka podľa DNA" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="300" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dQKsyLHApc4LOAyH2oId-19" value="Export do DB Interpol" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="230" width="140" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
